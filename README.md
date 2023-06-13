@@ -16,7 +16,7 @@ A lab journal template for students following courses using RStudio and Git (htt
 You now have a personal copy of this repository on your account, which serves html files (aka Github pages) as a website.
 
 ## Inviting collaborators:
-Navigate to 'Settings'; click on 'Collaborators', and invite the lectures of your course (e.g. JochemTolsma, bhofstra, robfranken, AMMulders). After acceptance, the lecturers have access to you repository and can make contributions.
+Navigate to 'Settings'; click on 'Collaborators', and invite the lectures of your course (e.g. JochemTolsma, bhofstra, robfranken, ammulders). After acceptance, the lecturers have access to you repository and can make contributions.
 
 ## Clone the repository:
 1. Using GitHub desktop, clone the forked lab journal repository to your local path;
