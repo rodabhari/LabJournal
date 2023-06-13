@@ -1,5 +1,5 @@
 # Lab Journal
-A lab journal template for students following courses using RStudio and Git (https://jochemtolsma.github.io/labjournal/). To use this, follow the steps below.
+A lab journal template for students following courses using RStudio and Git (https://robfranken.github.io/labjournal/). To use this, follow the steps below.
 
 
 ## Preparation:
@@ -16,7 +16,7 @@ A lab journal template for students following courses using RStudio and Git (htt
 You now have a personal copy of this repository on your account, which serves html files (aka Github pages) as a website.
 
 ## Inviting collaborators:
-Navigate to 'Settings'; click on 'Collaborators', and invite the lectures of your course (e.g. JochemTolsma, bhofstra). After acceptance, the lecturers have access to you repository and can make contributions.
+Navigate to 'Settings'; click on 'Collaborators', and invite the lectures of your course (e.g. JochemTolsma, bhofstra, robfranken, AMMulders). After acceptance, the lecturers have access to you repository and can make contributions.
 
 ## Clone the repository:
 1. Using GitHub desktop, clone the forked lab journal repository to your local path;
@@ -36,7 +36,7 @@ You can keep your personal notes and working scripts a separate folder. Make sur
 ## Hosting on Github:
 1. Recompile the lab journal website using the build function in the top right hand corner;
 2. Commit your changes and push them to GitHub using GitHub Desktop.
-3. Your personal lab journal website will be published at: https://{USERNAME}.github.io/bigssslabjournal/
+3. Your personal lab journal website will be published at: https://{USERNAME}.github.io/labjournal/
 
 ## Useful resources: 
 1. Working with [Git](https://happygitwithr.com/index.html) and [GitHub Desktop](https://docs.github.com/en/desktop)
