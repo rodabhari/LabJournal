@@ -1,10 +1,14 @@
 ---
 title: "Lab journal"
-author: "by: Rob Franken"
+output:
+  html_document:
+    toc: false
+    number_sections: false
+author: "by: Your Name"
+bibliography: references.bib
 
-
- 
 ---
+
 
 ```{r, install remotely, globalsettings, echo=FALSE, warning=FALSE, results='hide'}
 # install.packages("remotes")
@@ -39,14 +43,19 @@ klippy::klippy(position = c('top', 'right'))
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
-### BIGSSS-CSS: Segregation-Polarisation
-Last compiled on `r format(Sys.time(), '%B, %Y')`
+# My Lab Journal
+Last compiled on `r format(Sys.time(), '%B, %Y')`  
+
+*Describe lab journal here.*
 
 <br>
 
 ----
-  
-Participants of the BIGSSS Summer School can fork this repository. Using this, they can journal their work and assignments.
+
+
+Everyone can fork this repository. 
+
+Use this example to journal your lab work and assignments. 
 
 
 :::
@@ -55,16 +64,18 @@ Participants of the BIGSSS Summer School can fork this repository. Using this, t
 
 
 
-![](images/image.jpg)
+
+![](images/sciencedog.jpg)
 
 
 :::
 ::::::::::::::
 
 
+
 ## How to use
 
-1. Fork the repository for this website and follow instructions on `README` to get started [here](https://github.com/robfranken/bigssslabjournal).  
+1. Fork the repository for this website and follow instructions on `README` to get started [here](https://github.com/robfranken/labjournal).  
 
 2. Journal your work, by editing the .Rmd-files
 

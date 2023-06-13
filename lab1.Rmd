@@ -1,14 +1,7 @@
 ---
 title: "Journal 1"
 #bibliography: references.bib
-author: "Rob Franken"
-output: 
-  html_document:
-    css: tweaks.css
-    toc:  true
-    toc_float: true
-    number_sections: false
- 
+author: "Your Name"
 ---
 
 
@@ -39,13 +32,15 @@ Last compiled on `r format(Sys.time(), '%B, %Y')`
 
 ----
   
-This is just an example page of your lab journal.
-You can journal the assignments of the first day here.
+This is just an example page of your `r colorize("lab journal", "red")`.
   
 
 ----
 
 
+```{r}
+print("Hello Lab Journal")
+```
 
 
 
