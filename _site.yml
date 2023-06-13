@@ -20,7 +20,7 @@ navbar:
 
   right:
   - icon: fab fa-github
-    href: https://github.com/robfranken/labjournal
+    href: https://github.com/robfranken/LabJournal
 output:
   html_document:
     theme: flatly

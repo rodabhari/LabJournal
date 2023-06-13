@@ -75,7 +75,7 @@ Use this example to journal your lab work and assignments.
 
 ## How to use
 
-1. Fork the repository for this website and follow instructions on `README` to get started [here](https://github.com/robfranken/labjournal).  
+1. Fork the repository for this website and follow instructions on `README` to get started [here](https://github.com/robfranken/LabJournal).  
 
 2. Journal your work, by editing the .Rmd-files
 
