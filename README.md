@@ -31,7 +31,8 @@ The forked repository at your local path contains all of the files you need. All
 4. Make sure to install the `remotes` and `klippy` packages. Commands are included in the index.Rmd.
 5. Journal your work using .Rmd-files.
 
-You can keep your personal notes and working scripts a separate folder. Make sure to include an underscore in the folder name (e.g., _test). Scripts contained in this folder will not be compiled.
+To maintain your personal notes and working scripts separately, create a dedicated folder. If you don't want this folder to be accessible to others, remember to add its name to the '.gitignore' file. Additionally, modify your 'site.yml' to ensure that the same content is excluded there as well. Keep in mind that any items within this folder will not be compiled.
+
 
 ## Hosting on Github:
 1. Recompile the lab journal website using the build function in the top right hand corner;
